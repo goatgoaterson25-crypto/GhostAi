@@ -1,2 +1,0 @@
-# GhostAi
-GhostAi 
