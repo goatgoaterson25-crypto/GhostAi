@@ -1,5 +1,0 @@
-#!/usr/bin/env sh
-org_gradle_jvmargs="-Xmx64m -Xms64m"
-app_name="Gradle"
-executable="bin/gradle"
-exec "$app_name" "$@"
